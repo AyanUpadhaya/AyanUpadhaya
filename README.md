@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyanUpadhaya
 - 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python and Front-end development
+- 🌱 I’m currently MERN Stack Developer
 - 💞️ I’m looking to collaborate on git-hub
 - 📫 How to reach me ayanu881@gmail.com
 
