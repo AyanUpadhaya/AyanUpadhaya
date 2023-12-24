@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 ### 🚀 About Me
 - 🎓 I am a Self taught programmer 
 - 🌱 I'm passionate about web development, particularly with the MERN stack, and Python.
-- 💼 Currently working as a Jr. React Developer  at Netro 
+- 💼 Currently working as a Jr. React Developer  at Netro Creative
 
 
 ### 🛠️ Technologies & Tools
