@@ -1,4 +1,4 @@
-# Ayan Upadhaya
+# Frontend Developer
 
 ## 👋 Hello, I'm Ayan 
 
