@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @AyanUpadhaya
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently MERN Stack Developer
-- 💞️ I’m looking to collaborate on git-hub
-- 📫 How to reach me ayanu881@gmail.com
+# Ayan Upadhaya
 
-<!---
-AyanUpadhaya/AyanUpadhaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hello, I'm Ayan 
+
+Welcome to my GitHub profile. I'm a junior developer with a specialization in MERN (MongoDB, Express.js, React.js, Node.js) stack and Python. 
+
+### 🚀 About Me
+- 🎓 I am a Self taught programmer 
+- 🌱 I'm passionate about web development, particularly with the MERN stack, and Python.
+- 💼 Currently working as a Jr. React Developer  at Netro 
+
+
+### 🛠️ Technologies & Tools
+
+#### Frontend
+
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next Js
+- Redux
+- Bootstrap, Material-UI, Tailwind
+
+#### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Python (Django, FastAPI)
+
+#### Tools
+
+- Git & GitHub
+- VSCode
+- Postman
+
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ayan-upadhaya/)
