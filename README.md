@@ -24,7 +24,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 - Node.js
 - Express.js
 - MongoDB
-- Python (Django, FastAPI)
+- Python (Django, Flask)
 
 #### Tools
 
