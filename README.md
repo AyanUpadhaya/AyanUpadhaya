@@ -7,7 +7,16 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 ### 🚀 About Me
 - 🎓 I am a Self taught programmer 
 - 🌱 I'm passionate about web development, particularly with the MERN stack, and Python.
-- 💼 Currently working as a Jr. React Developer  at Netro Creative
+- 🌟 I enjoy solving complex coding problems and contributing to open-source projects.
+- 📚 Currently exploring advanced React patterns and Next js
+
+### 💼 Job Experience
+- **Jr. React Developer** at Netro Creative
+  - Duration: [Oct 10, 2023 - Mar 15, 2023]
+  - Contributed to building and optimizing front-end applications using React.js.
+  - Collaborated with cross-functional teams to deliver high-quality web applications.
+  - Implemented reusable components and state management solutions with Redux.
+  - Debugged and resolved performance issues in client-facing applications.
 
 
 ### 🛠️ Technologies & Tools
@@ -15,7 +24,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 #### Frontend
 
 - HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next Js
+- React.js, Next Js, Vue Js
 - Redux
 - Bootstrap, Material-UI, Tailwind
 
