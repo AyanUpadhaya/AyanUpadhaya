@@ -18,6 +18,14 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
   - Implemented reusable components and state management solutions with Redux.
   - Debugged and resolved performance issues in client-facing applications.
 
+- **Frontend Developer** at AIREPRO PVT SOLUTION LTD
+  - Duration: [Dec 17, 2024 - Present]
+  - Contributed to building and optimizing front-end applications using React.js.
+  - Contributed to building and optimizing backend using express js and mysql.
+  - Collaborated with cross-functional teams to deliver high-quality web applications.
+  - Implemented reusable components and state management solutions with Redux.
+  - Debugged and resolved performance issues in client-facing applications.
+
 
 ### 🛠️ Technologies & Tools
 
