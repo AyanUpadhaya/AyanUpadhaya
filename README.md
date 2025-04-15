@@ -1,4 +1,4 @@
-# Frontend Developer
+# Fullstack Developer
 
 ## 👋 Hello, I'm Ayan 
 
