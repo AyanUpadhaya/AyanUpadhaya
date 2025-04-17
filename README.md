@@ -31,7 +31,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 
 #### Frontend
 
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), Typescript
 - React.js, Next Js, Vue Js
 - Redux
 - Bootstrap, Material-UI, Tailwind
@@ -41,6 +41,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 - Node.js
 - Express.js
 - MongoDB
+- PHP and Mysql
 - Python (Django, Flask)
 
 #### Tools
