@@ -2,6 +2,9 @@
 
 ## 👋 Hello, I'm Ayan 
 
+![AyanUpadhaya's Stats](https://github-readme-stats.vercel.app/api?username=AyanUpadhaya&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![AyanUpadhaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanUpadhaya&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
 Welcome to my GitHub profile. I'm a junior developer with a specialization in MERN (MongoDB, Express.js, React.js, Node.js) stack and Python. 
 
 ### 🚀 About Me
@@ -25,6 +28,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
   - Collaborated with cross-functional teams to deliver high-quality web applications.
   - Implemented reusable components and state management solutions with Redux.
   - Debugged and resolved performance issues in client-facing applications.
+  - Worked in jenkins, sonarqube and cron job implementation
 
 
 ### 🛠️ Technologies & Tools
@@ -49,8 +53,13 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 - Git & GitHub
 - VSCode
 - Postman
+- Docker
 
 
 ### 🌐 Connect with Me
-
 - [LinkedIn](https://www.linkedin.com/in/ayan-upadhaya/)
+
+
+
+
+
