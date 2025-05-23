@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 
 ### 💼 Job Experience
 - **Jr. React Developer** at Netro Creative
-  - Duration: [Oct 10, 2023 - Mar 15, 2023]
+  - Duration: [Oct 10, 2023 - Mar 15, 2024]
   - Contributed to building and optimizing front-end applications using React.js.
   - Collaborated with cross-functional teams to deliver high-quality web applications.
   - Implemented reusable components and state management solutions with Redux.
