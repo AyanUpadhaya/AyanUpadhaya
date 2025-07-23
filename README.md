@@ -51,7 +51,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 - Express.js
 - MongoDB
 - PHP and Mysql
-- Python (Django, Flask)
+
 
 #### Tools
 
