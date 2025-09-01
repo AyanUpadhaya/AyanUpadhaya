@@ -33,6 +33,7 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 
 ### Npm packages created
 - [notunid](https://www.npmjs.com/package/notunid)
+- [ui-render](https://www.npmjs.com/package/ui-render)
 
 
 
@@ -44,6 +45,8 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 - React.js, Next Js, Vue Js
 - Redux
 - Bootstrap, Material-UI, Tailwind
+- Vitest
+- React Testing Library
 
 #### Backend
 
