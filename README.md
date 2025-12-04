@@ -2,8 +2,7 @@
 
 ## 👋 Hello, I'm Ayan 
 
-![AyanUpadhaya's Stats](https://github-readme-stats.vercel.app/api?username=AyanUpadhaya&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![AyanUpadhaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanUpadhaya&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
 
 Welcome to my GitHub profile. I'm a junior developer with a specialization in MERN (MongoDB, Express.js, React.js, Node.js) stack and Python. 
 
