@@ -66,6 +66,8 @@ Welcome to my GitHub profile. I'm a junior developer with a specialization in ME
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ayan-upadhaya/)
 
+<summary><b>Profile View Counter</b></summary>
+<img src="https://komarev.com/ghpvc/?username=AyanUpadhaya" />
 
 
 
